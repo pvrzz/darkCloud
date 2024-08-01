@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.7.3
+@version        1.7.4
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -141,6 +141,9 @@
     }
     .playbackSoundBadge__queueCircle {
         background-color: #ffffff !important;
+    }
+    .playbackSoundBadge__queueIcon {
+        fill: #ffffff !important;
     }
     .l-about-row,
     .l-about-top,
