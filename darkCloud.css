@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.7.9
+@version        1.8.0
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -360,5 +360,8 @@
     }
     .dialog.sc-border-box {
         color: #000000 !important;
+    }
+    .commentForm__input {
+        color: #ffffff !important;
     }
 }
