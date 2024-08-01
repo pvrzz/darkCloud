@@ -355,4 +355,10 @@
     .inboxItem.sc-border-box:hover {
         background-color: #979797 !important;
     }
+    .spotlight__upsellCTA .sc-button {
+        color: #000000 !important;
+    }
+    .dialog.sc-border-box {
+        color: #000000 !important;
+    }
 }
