@@ -1,5 +1,5 @@
 # DarkCloud
-### a __WORK IN PROGRESS__ Soundcloud Dark Theme.
+### a _WORK IN PROGRESS_ Soundcloud Dark Theme.
 ![DarkCloud banner](https://i.imgur.com/71RBhXy.png)
 
 ### Created by [pvrz](https://github.com/pvrzz), assisted & corrected with [Github Copilot](https://github.com/features/copilot)
