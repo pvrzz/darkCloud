@@ -1,0 +1,280 @@
+/* ==UserStyle==
+@name           pvrz's DarkCloud
+@namespace      darkcloud
+@version        1.6.5
+@description    A dark theme for SoundCloud made by pvrz.
+@license        MIT
+==/UserStyle== */
+/* AI Notice. */
+/* This is AI code. If you are a contributor to the code, and see anything incorrect replace it with the correct code! */
+/* TO DO: Custom favicon */
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("soundcloud.com") {
+    body {
+        background-color: #121212 !important;
+        color: #e0e0e0 !important;
+    }
+
+    .header,
+    .footer,
+    .sidebar,
+    .content {
+        background-color: #1e1e1e !important;
+    }
+
+    a {
+        color: #bb86fc !important;
+    }
+
+    a:visited {
+        color: #bb86fc !important;
+    }
+
+    .button {
+        background-color: #333333 !important;
+        color: #ffffff !important;
+    }
+
+    .input {
+        background-color: #2e2e2e !important;
+        color: #e0e0e0 !important;
+    }
+
+    .commentItem__body p {
+        color: #e0e0e0 !important;
+    }
+
+    svg {
+        fill: #ffffff !important;
+    }
+
+    a,
+    a:visited,
+    .commentItem__username,
+    .commentItem__timestamp,
+    .commentItem__createdAt,
+    .commentItem__replyButton,
+    .commentItem__likeCount {
+        color: #d3d3d3 !important;
+    }
+
+    .commentsList__header,
+    .commentsList__title,
+    .commentsList__sortSelect,
+    .commentItem__commentInfo,
+    .commentItem_contentWrapper,
+    .commentItem_bodyContainer,
+    .commentItem__controls,
+    .commentForm__inputWrapper,
+    .commentForm__input {
+        background-color: #2e2e2e !important;
+    }
+
+    .comment:hover {
+        background-color: #333333 !important;
+    }
+
+    .commentItem__content,
+    .commentItem__commentInfo,
+    .commentItem_contentWrapper,
+    .commentItem_bodyContainer,
+    .commentItem__body,
+    .commentItem__controls,
+    .commentItem__replyButton,
+    .commentItem__likeWrapper,
+    .commentItem__like,
+    .commentItem__likeButton {
+        background-color: transparent !important;
+    }
+
+    .uiEvoButton--isIconOnly.uiEvoButton--isLight.commentItem__likeButton {
+        background-color: transparent !important;
+    }
+
+    .commentItem__like button svg {
+        background-color: transparent !important;
+    }
+
+    .commentItem__like button svg path {
+        fill: #ffffff !important;
+    }
+
+    .replaceFileButton {
+        color: #000000 !important;
+    }
+
+    .playControls {
+        background-color: #161616 !important;
+    }
+
+    .playControls__inner,
+    .playControls__wrapper,
+    .playControls__queue,
+    .playControls__bg,
+    .playControls__elements,
+    .playControls__panel {
+        background-color: #161616 !important;
+    }
+
+    .playControls .icon,
+    .playControls .sc-ir,
+    .playControls .playbackSoundBadge__queueIcon,
+    .playControls .volume__button,
+    .playControls .shuffleControl,
+    .volume__sliderWrapper {
+        background-color: #161616; /* Same as the player background */
+    }
+    
+    .volume__sliderBackground {
+        background-color: #161616; /* Same as the player background */
+    }
+    .playControls .repeatControl,
+    .playControls .skipControl,
+    .playControls .playControl,
+    .playControls .playbackTimeline__progressHandle {
+        fill: #ffffff !important;
+        color: #ffffff !important;
+    }
+    .playbackSoundBadge__titleLink.sc-truncate.sc-text-h5.sc-link-primary {
+        color: #ffffff !important;
+    }
+    .playbackSoundBadge__queueCircle {
+        background-color: #ffffff !important;
+    }
+    .l-about-row,
+    .l-about-top,
+    .listenEngagement,
+    .listenEngagement__commentForm,
+    .commentForm,
+    .commentForm__wrapper,
+    .commentForm__avatar,
+    .commentForm__inputWrapper,
+    .commentForm__input,
+    .commentForm__submitButton,
+    .commentForm__inputMessage,
+    .listenEngagement__footer,
+    .soundActions,
+    .sc-button-group,
+    .sc-button,
+    .soundStats,
+    .sc-ministats-item,
+    .sc-ministats,
+    .sc-ministats-plays,
+    .sc-ministats-likes,
+    .sc-ministats-reposts {
+        border: none !important;
+    }
+    .sc-type-small.sc-text-h4 .sc-truncate {
+        color: #ffffff !important;
+    }
+    .commentsList__header,
+    .commentsList__title {
+        background-color: transparent !important;
+    }
+
+    .playbackSoundBadge__lightLink,
+    .playbackSoundBadge__titleLink {
+        color: #000000 !important;
+    }
+
+    .playbackSoundBadge__queueIcon {
+        fill: #000000 !important;
+    }
+    .playbackSoundBadge__lightLink.sc-link-light.sc-link-secondary.sc-truncate.sc-text-h5 {
+        color: #ffffff !important;
+    }
+    .playControls__soundBadge svg {
+        fill: #ffffff !important;
+    }
+    .repeatControl.sc-ir.m-none svg {
+        fill: #f0f0f0 !important;
+    }
+    .velvetCakeModule__iframe {
+        border: none !important;
+    }
+    .shuffleControl.sc-ir {
+        color: #f0f0f0 !important;
+    }
+    
+    .shuffleControl.sc-ir svg {
+        fill: #f0f0f0 !important;
+    }
+    
+    .skipControl.sc-ir.playControls__control.playControls__next.skipControl__next {
+        color: #f0f0f0 !important;
+    }
+    
+    .skipControl.sc-ir.playControls__control.playControls__next.skipControl__next svg {
+        fill: #f0f0f0 !important;
+    }
+    
+    .playControl.sc-ir.playControls__control.playControls__play.playing {
+        color: #f0f0f0 !important;
+    }
+    
+    .playControl.sc-ir.playControls__control.playControls__play.playing svg {
+        fill: #f0f0f0 !important;
+    }
+    
+    .skipControl.sc-ir.playControls__control.playControls__prev.skipControl__previous {
+        color: #f0f0f0 !important;
+    }
+    
+    .skipControl.sc-ir.playControls__control.playControls__prev.skipControl__previous svg {
+        fill: #f0f0f0 !important;
+    }
+    ._3_qrOigb__d19Q8Z2HrnQx.sc-button.sc-button-white.sc-button-large.insightsSidebarModule__button {
+        background-color: #000000 !important;
+        color: #ffffff !important;
+        border: none !important;
+    }
+    .insightsSidebarModule__title.sc-text-h3.sc-mb-1x {
+        color: #ffffff !important;
+    }
+    
+    .insightsSidebarModule__title.sc-text-h3.sc-mb-1x .insightsSidebarModule__userName {
+        color: #ffffff !important;
+    }
+    * {
+        border-color: transparent !important;
+    }
+    .dropdownMenu.g-z-index-header-menu {
+        background-color: #161616 !important;
+    }
+    .headerMenu.profileMenu.m-light .headerMenu__link {
+        color: #000000 !important;
+    }
+    .headerMenu.moreMenu.m-light .headerMenu__link {
+        color: #000000 !important;
+    }
+    .dropdownMenu.g-z-index-header-menu {
+        background-color: #161616 !important;
+        color: #000000 !important;
+    }
+    .commentForm__wrapper {
+        background-color: transparent !important;
+    }
+    .dropbar__content {
+        background-color: #161616 !important;
+    }
+    .sc-button-startstation {
+        color: #000000 !important;
+    }
+    .soundActions.sc-button-toolbar.soundActions__small {
+        background-color: transparent !important;
+    }
+    .sc-button-upload {
+        color: #000000 !important;
+    }
+    .soundActions__purchaseLink {
+        color: #000000 !important;
+    }
+    .profileUploadFooter.paging-eof.sc-border-light-top {
+        background-color: #161616 !important;
+    }
+    .compactTrackList__list.sc-list-nostyle.sc-clearfix,
+    .compactTrackList__list.sc-list-nostyle.sc-clearfix * {
+    color: #FFFFFF !important;
+}
+}
