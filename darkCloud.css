@@ -352,4 +352,7 @@
     .conversationMessage__body.sc-type-small.sc-text-body.sc-text-secondary {
         color: #ffffff !important;
     }
+    .inboxItem.sc-border-box:hover {
+        background-color: #979797 !important;
+    }
 }
