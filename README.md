@@ -10,6 +10,7 @@ No public code used.
 [Fork & Contribute!](https://github.com/pvrzz/darkCloud/fork)
 
 [License](https://github.com/pvrzz/darkCloud/blob/main/LICENSE)
+[Stylus Settings](https://github.com/pvrzz/darkCloud/blob/main/settings.txt)
 
 Will be available for UserStyles.world and Stylish when completed.
 
