@@ -124,11 +124,11 @@
     .playControls .volume__button,
     .playControls .shuffleControl,
     .volume__sliderWrapper {
-        background-color: #161616; /* Same as the player background */
+        background-color: #161616;
     }
     
     .volume__sliderBackground {
-        background-color: #161616; /* Same as the player background */
+        background-color: #161616;
     }
     .playControls .repeatControl,
     .playControls .skipControl,
@@ -282,17 +282,17 @@
     color: #FFFFFF !important;
     }
     .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button {
-    color: #FFFFFF !important; /* Make the icons white */
-    background-color: transparent !important; /* Make the background transparent */
+    color: #FFFFFF !important;
+    background-color: transparent !important; 
     }
 
     .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button {
-        color: #FFFFFF !important; /* Make the icons white */
-        background-color: transparent !important; /* Make the background transparent */
+        color: #FFFFFF !important;
+        background-color: transparent !important;
     }
     
     .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button svg {
-        fill: #FFFFFF !important; /* Ensure SVG icons are white */
+        fill: #FFFFFF !important;
     }
     .soundBadge__additional {
         background: linear-gradient(90deg, hsla(0, 0%, 94.9%, 0.1), #f2f2f2 17px) !important;
@@ -322,25 +322,25 @@
         border: none;
     }
     .uploadTarget.modal.modalWhiteout {
-        background-color: rgba(0, 0, 0, 0.8) !important; /* Black background with 80% opacity */
+        background-color: rgba(0, 0, 0, 0.8) !important;
     }
     .trackItem.g-flex-row.m-interactive.m-playable.active,
     .trackItem.g-flex-row.m-interactive.m-playable:hover {
-     background-color: #979797 !important; /* Slightly darker than white */
+     background-color: #979797 !important;
     }
     .trackItem__additional {
         background: #00000000 !important;
     }
     .sc-button-distribute,
     .sc-button-upload {
-        color: #000000 !important; /* Text color */
-        background-color: #ffffff !important; /* Background color */
-        border: 1px solid #000000 !important; /* Border color */
+        color: #000000 !important;
+        background-color: #ffffff !important;
+        border: 1px solid #000000 !important;
     }
 
     .sc-button-distribute:hover,
     .sc-button-upload:hover {
-     color: #000000 !important; /* Text color on hover */
-        background-color: rgba(255, 255, 255, 0.8) !important; /* Background color on hover */
+     color: #000000 !important;
+        background-color: rgba(255, 255, 255, 0.8) !important;
     }
 }
