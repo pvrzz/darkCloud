@@ -15,6 +15,7 @@ Will be available for UserStyles.world and Stylish when completed.
 
 Not reccomended for normal use.
 
-## Contribute:
+## Contribute
 [Fork](https://github.com/pvrzz/darkCloud/fork)
+
 [Create an Issue](https://github.com/pvrzz/darkCloud/issues)
