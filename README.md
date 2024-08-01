@@ -6,5 +6,7 @@ Created by [pvrz](https://github.com/pvrzz), assisted with [Github Copilot](http
 No public code used.
 
 [Code](https://github.com/pvrzz/darkCloud/blob/main/darkCloud.css)
+
 [Fork & Contribute!](https://github.com/pvrzz/darkCloud/fork)
+
 [License](https://github.com/pvrzz/darkCloud/blob/main/LICENSE)
