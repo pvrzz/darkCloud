@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.7.4
+@version        1.7.5
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -301,5 +301,12 @@
     .queue__panel,
     .queueItemView {
         background-color: #161616 !important;
+    }
+    .linkMenu__list,
+    .linkMenu__list .linkMenu__group,
+    .linkMenu__list .sc-list-nostyle,
+    .linkMenu__list .linkMenu__item,
+    .linkMenu__list .linkMenu__link {
+      color: #000000 !important;
     }
 }
