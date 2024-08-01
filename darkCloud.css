@@ -282,7 +282,13 @@
     background-color: transparent !important; /* Make the background transparent */
     }
 
-    .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button svg {
-    fill: #FFFFFF !important; /* Ensure SVG icons are white */
+    .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button {
+        color: #FFFFFF !important; /* Make the icons white */
+        background-color: transparent !important; /* Make the background transparent */
     }
+    
+    .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button svg {
+        fill: #FFFFFF !important; /* Ensure SVG icons are white */
+    }
+    
 }
