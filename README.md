@@ -1,6 +1,6 @@
 # DarkCloud
 ## a __WORK IN PROGRESS__ Soundcloud Dark Theme.
-[DarkCloud banner]([image_url](https://i.imgur.com/71RBhXy.png))
+[DarkCloud banner](https://i.imgur.com/71RBhXy.png)
 
 Created by [pvrz](https://github.com/pvrzz), assisted with [Github Copilot](https://github.com/features/copilot)
 No public code used.
