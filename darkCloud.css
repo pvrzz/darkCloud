@@ -331,4 +331,16 @@
     .trackItem__additional {
         background: #00000000 !important;
     }
+    .sc-button-distribute,
+    .sc-button-upload {
+        color: #000000 !important; /* Text color */
+        background-color: #ffffff !important; /* Background color */
+        border: 1px solid #000000 !important; /* Border color */
+    }
+
+    .sc-button-distribute:hover,
+    .sc-button-upload:hover {
+     color: #000000 !important; /* Text color on hover */
+        background-color: rgba(255, 255, 255, 0.8) !important; /* Background color on hover */
+    }
 }
