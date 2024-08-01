@@ -5,3 +5,6 @@ Custom Excluded Sites:
 *https://artists.soundcloud.com/*
 *https://insights-ui.soundcloud.com/*
 *https://checkout.soundcloud.com*
+
+Dark/Light Mode Preference:
+Dark
