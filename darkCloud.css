@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.7.8
+@version        1.7.9
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -342,5 +342,11 @@
     .sc-button-upload:hover {
      color: #000000 !important;
         background-color: rgba(255, 255, 255, 0.8) !important;
+    }
+    .inboxItem.sc-border-box.active {
+        background-color: #979797 !important;
+    }
+    .conversation__actions.sc-border-box.g-z-index-content {
+        background-color: #161616 !important;
     }
 }
