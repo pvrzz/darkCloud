@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.7.7
+@version        1.7.8
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -292,6 +292,9 @@
     
     .soundBadge__additional .soundBadge__actions .soundActions .sc-button-toolbar .sc-button-group .sc-button svg {
         fill: #FFFFFF !important; /* Ensure SVG icons are white */
+    }
+    .soundBadge__additional {
+        background: linear-gradient(90deg, hsla(0, 0%, 94.9%, 0.1), #f2f2f2 17px) !important;
     }
     .queue__scrollable,
     .queue__scrollableInner,
