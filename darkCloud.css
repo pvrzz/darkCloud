@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           pvrz's DarkCloud
 @namespace      darkcloud
-@version        1.8.3
+@version        1.8.4
 @description    A dark theme for SoundCloud made by pvrz.
 @license        MIT
 ==/UserStyle== */
@@ -388,5 +388,24 @@
         color: #ffffff !important;
         text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
     }
-
+    .audibleEditForm__form {
+        background-color: #161616 !important;
+    }
+    .editTrackItem__additional {
+        background: linear-gradient(90deg, hsla(0, 0%, 94.9%, .1), #161616 17px) !important;
+    }
+    
+    .editTrackItem__additional:hover {
+        color: #000000 !important;
+    }
+    
+    .editTrackItem__remove:hover {
+        color: #000000 !important;
+    }
+    .editTrackItem:hover {
+        background-color: #979797 !important;
+    }
+    .editTrackItem.sc-type-small.m-active {
+        background-color: #979797 !important;
+    }
 }
