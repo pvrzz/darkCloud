@@ -6,6 +6,7 @@ Custom Excluded Sites:
 *https://insights-ui.soundcloud.com/*
 *https://checkout.soundcloud.com*
 https://soundcloud.com/
+*https://w.soundcloud.com/*
 
 Dark/Light Mode Preference:
 Dark
