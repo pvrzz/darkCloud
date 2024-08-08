@@ -9,6 +9,7 @@ Created by [pvrz](https://github.com/pvrzz), assisted & corrected with [Github C
 
 
 [License](https://github.com/pvrzz/darkCloud/blob/main/LICENSE)
+
 [Stylus Settings](https://github.com/pvrzz/darkCloud/blob/main/settings.txt)
 
 Will be available for UserStyles.world and Stylish when completed.
